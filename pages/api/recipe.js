@@ -13,14 +13,12 @@ export default async function sendApiRequest(req, res) {
       stringifiedQuery.length - 1
     )
 
-    console.log(stringifiedQuery)
     const { data } = await axios.get(
       `https://api.spoonacular.com/recipes/findByIngredients?apiKey=${API_KEY}&ingredients=${stringifiedQuery}&number=6`
     )
-    console.log(data)
     res.status(200).json(data)
   } catch (err) {
-    console.log(err)
+    console.error(err)
     res.status(500).end()
   }
 }

@@ -50,7 +50,7 @@ export default function Home() {
 
   const displayRecipes = async ingredients => {
     const res = await findRecipes(ingredients)
-    console.log('got it here', res)
+    // console.log('got it here', res)
     if (res.length === 0) {
       setRecipeExists(false)
       return
@@ -61,7 +61,7 @@ export default function Home() {
 
   const inputStyles = {
     width: '80vh',
-    'border-color': 'grey',
+    borderColor: 'grey',
   }
   return (
     <div className={styles.container}>

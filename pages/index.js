@@ -31,9 +31,6 @@ export default function Home() {
             </Button>
           </Link>
         </main>
-        <footer className={styles.footer}>
-          Made with NextJS at Hack The North 2021
-        </footer>
       </div>
     </div>
   )
