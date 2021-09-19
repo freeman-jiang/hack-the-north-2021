@@ -25,7 +25,7 @@ export default function Home() {
           <Text fontSize='lg'>
             Because making food should be easy, enjoyable, and practical.
           </Text>
-          <Link href='/make-recipe'>
+          <Link href='/make-recipe' passHref>
             <Button mt='4' colorScheme='red' variant='solid' size='lg'>
               Start Cooking
             </Button>
