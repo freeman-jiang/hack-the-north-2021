@@ -1,10 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This project was made for Hack the North 2021 with the goal of minimizing food waste in households.
+This project was created for Hack the North 2021 with the goal of minimizing food waste in households.
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/56516912/133918924-9cc207d7-f2f6-4a14-a323-33ac0e2d197d.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/56516912/133918926-bfec8a97-a2d1-429d-b334-5c0120c5797d.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/56516912/133918928-cb535bc7-d2d5-449f-b4c4-30ea03b77499.png)
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
