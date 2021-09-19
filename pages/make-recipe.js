@@ -73,7 +73,7 @@ export default function Home() {
 
       <main className={styles.dashboard}>
         <Heading
-          mt={2}
+          mt={10}
           bgGradient='linear(to-br, #FFA500, #fc3503)'
           bgClip='text'
           fontSize='5xl'
