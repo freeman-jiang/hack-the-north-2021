@@ -6,7 +6,8 @@ Nom is a web app that reduces food waste by helping people find new recipes for 
 ## Hosted App
 https://hack-the-north-2021-nloomb25k-freeman-jiang.vercel.app/
 
-Note: Due to time and resource constraints, this app is NOT mobile-friendly. Also, the API has a daily quota of 150 calls, so if it isn't working—that's probably why.
+### Note: 
+Due to time and resource constraints, this app is NOT mobile-friendly. Also, the API has a daily quota of 150 calls, so if it isn't working—that's probably why.
 
 ## Screenshots
 ![Screenshot (17)](https://user-images.githubusercontent.com/56516912/133918924-9cc207d7-f2f6-4a14-a323-33ac0e2d197d.png)
