@@ -1,5 +1,5 @@
 ## About
-Nom is a web app that reduces food waste by helping people find new recipes for everyday ingredients. This project was created in 16 hours for Hack the North 2021.
+Nom is a serverless web app that reduces food waste by helping people find new recipes for everyday ingredients. This project was created in under 16 hours for Hack the North 2021.
 
 **Technologies**: NextJS, React, JavaScript, Chakra UI, [Spoonacular API](https://spoonacular.com/food-api), Vercel, CSS
 
