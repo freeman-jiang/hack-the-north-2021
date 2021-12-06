@@ -4,7 +4,7 @@ Nom is a serverless web app that reduces food waste by helping people find new r
 **Technologies**: NextJS, React, JavaScript, Chakra UI, [Spoonacular API](https://spoonacular.com/food-api), Vercel, CSS.
 
 ## Hosted App
-https://hack-the-north-2021-nloomb25k-freeman-jiang.vercel.app/
+https://nom-htn2021.vercel.app/
 
 **Note:** Due to time and resource constraints, this app is NOT mobile-friendly. Also, the API has a daily quota of 150 calls, so if it isn't working—that's probably why.
 
