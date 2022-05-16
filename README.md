@@ -6,8 +6,6 @@ Nom is a serverless web app that reduces food waste by helping people find new r
 ## Hosted App
 https://nom-htn2021.vercel.app/
 
-**Note:** Due to time and resource constraints, this app is NOT mobile-friendly. Also, the API has a daily quota of 150 calls, so if it isn't working—that's probably why.
-
 ## Screenshots
 ![Screenshot (17)](https://user-images.githubusercontent.com/56516912/133918924-9cc207d7-f2f6-4a14-a323-33ac0e2d197d.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/56516912/133918926-bfec8a97-a2d1-429d-b334-5c0120c5797d.png)
